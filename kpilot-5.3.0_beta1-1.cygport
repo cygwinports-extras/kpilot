@@ -1,0 +1,2 @@
+SVN_BRANCH="trunk/playground/pim/kpilot"
+inherit kde4 svn
